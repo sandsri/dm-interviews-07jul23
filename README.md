@@ -11,4 +11,4 @@
 6) Implement a GET operation on the same which first checks if the breed already exists in your DB and if not, then it must make a call to url: 'https://dog-breeds2.p.rapidapi.com/dog_breeds/breed [GET Get Breed Information] and get the breed data and update the local DB.
 7) If not found, then throw a 404 saying breed not found
 8) Setup postman collection of the end point /v1/dogBreed
-9) Commit your code to github or upload to google-drive (https://drive.google.com/drive/folders/1kYCf86FU02xdtRK5oUTpEzc0lU_kjvKk?usp=sharing)
+9) Commit your code to the new branch 'Results' in the same github or upload to google-drive (https://drive.google.com/drive/folders/1kYCf86FU02xdtRK5oUTpEzc0lU_kjvKk?usp=sharing)
